@@ -5,8 +5,6 @@
 ## eMail: lozareth@clandiscord.com
 ## URL: http://www.discordmods.com
 ## Notes: Common library for all mods by Lozareth.
-## OptionalDeps:
-## Dependencies: 
 ## SavedVariables: DiscordLibrary_Settings
 localization.lua
 DiscordLib_Conditions.lua
